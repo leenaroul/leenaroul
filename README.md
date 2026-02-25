@@ -17,7 +17,7 @@ IOC & IOA analysis
 MITRE ATT&CK mapping
 
 🖥️ EDR (Endpoint Detection & Response)
-Member of EDR setup & operations
+Member of EDR policy setup & operations
 Alert triage, correlation, and investigation
 Policy management & threat containment
 
